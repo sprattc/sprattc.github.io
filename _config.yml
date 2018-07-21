@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 title: Connor's Blog
 author: Connor S.
-github-username: sprattc
-show-excerpts: true
+github_username: sprattc
+show_excerpts: true
